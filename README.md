@@ -1,2 +1,2 @@
 # Pagina-Web-Grupo-2
-Página para la clase de visualización
+https://vanessamunozq.github.io/Pagina-Web-Grupo-2/.
